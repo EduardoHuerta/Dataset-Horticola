@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Basil</folder>
+	<filename>IMG_20201116_Cucumber_healthy_0_5346.jpg</filename>
+	<path>C:\Users\eduar\Escritorio\lalo\Basil\IMG_20201116_Cucumber_healthy_0_5346.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>741</width>
+		<height>765</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cucumber_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>106</ymin>
+			<xmax>590</xmax>
+			<ymax>650</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Basil</folder>
+	<filename>IMG_20201113_Basil_healthy_0_1460.jpg</filename>
+	<path>C:\Users\eduar\Escritorio\lalo\Basil\IMG_20201113_Basil_healthy_0_1460.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3362</width>
+		<height>3131</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Basil_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>468</ymin>
+			<xmax>3155</xmax>
+			<ymax>2178</ymax>
+		</bndbox>
+	</object>
+</annotation>

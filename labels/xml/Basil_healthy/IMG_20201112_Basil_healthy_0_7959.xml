@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Basil</folder>
+	<filename>IMG_20201112_Basil_healthy_0_7959.jpg</filename>
+	<path>C:\Users\eduar\Escritorio\lalo\Basil\IMG_20201112_Basil_healthy_0_7959.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2212</width>
+		<height>3143</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Basil_cercospora_leaf_spot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>1694</ymin>
+			<xmax>2212</xmax>
+			<ymax>2974</ymax>
+		</bndbox>
+	</object>
+</annotation>

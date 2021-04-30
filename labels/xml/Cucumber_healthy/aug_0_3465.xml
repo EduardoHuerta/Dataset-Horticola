@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Basil</folder>
+	<filename>aug_0_3465.jpg</filename>
+	<path>C:\Users\eduar\Escritorio\lalo\Basil\aug_0_3465.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2337</width>
+		<height>3850</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cucumber_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>27</ymin>
+			<xmax>2335</xmax>
+			<ymax>3849</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Basil</folder>
+	<filename>IMG_20200808_184636.jpg</filename>
+	<path>C:\Users\eduar\Escritorio\lalo\Basil\IMG_20200808_184636.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2976</width>
+		<height>3968</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Radish_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>771</ymin>
+			<xmax>2944</xmax>
+			<ymax>3796</ymax>
+		</bndbox>
+	</object>
+</annotation>

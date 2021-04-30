@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Basil</folder>
+	<filename>Screen Shot 2020-05-28 at 6.05.07 PM.png</filename>
+	<path>C:\Users\eduar\Escritorio\lalo\Basil\Screen Shot 2020-05-28 at 6.05.07 PM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1738</width>
+		<height>1188</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cucumber_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>115</ymin>
+			<xmax>1228</xmax>
+			<ymax>932</ymax>
+		</bndbox>
+	</object>
+</annotation>

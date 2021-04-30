@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Basil</folder>
+	<filename>imageTrain204_0_8807.jpg</filename>
+	<path>C:\Users\eduar\Escritorio\lalo\Basil\imageTrain204_0_8807.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>621</width>
+		<height>828</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cucumber_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>243</ymin>
+			<xmax>456</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+</annotation>

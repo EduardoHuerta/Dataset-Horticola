@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Basil</folder>
+	<filename>IMG_pepino144.jpg</filename>
+	<path>C:\Users\eduar\Escritorio\lalo\Basil\IMG_pepino144.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1152</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cucumber_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>188</ymin>
+			<xmax>874</xmax>
+			<ymax>774</ymax>
+		</bndbox>
+	</object>
+</annotation>

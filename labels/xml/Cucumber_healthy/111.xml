@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Basil</folder>
+	<filename>111.jpg</filename>
+	<path>C:\Users\eduar\Escritorio\lalo\Basil\111.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>159</width>
+		<height>158</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cucumber_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>63</ymin>
+			<xmax>105</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>
